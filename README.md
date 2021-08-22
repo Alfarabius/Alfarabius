@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Alfarabius
 -  I’m currently learning Python 3
--  galiakberovigor@gmail.com
