@@ -13,5 +13,5 @@
 ## Technologies
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/220px-Docker_%28container_engine%29_logo.svg.png">
-  <img src="https://ru.wikipedia.org/wiki/Nginx#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Nginx_logo.svg">
+  <img src="https://img.shields.io/badge/%20-%20nginx-blue">
 </p>
