@@ -1,4 +1,4 @@
-- ❁ Hi, I’m Alfarabius
+- Hi, I’m Alfarabius - software engineer.
 <p align="left">
   <img src="https://www.codewars.com/users/Alfarabius/badges/micro">
 </p>
